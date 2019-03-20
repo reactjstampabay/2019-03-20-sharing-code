@@ -1,2 +1,39 @@
-# 2019-03-20-sharing-code
-March 20th, 2019 - Sharing code with React and React-Native and Forms in React
+# March 20th, 2019
+
+# Sharing code with React and React-Native and Forms in React
+
+# Organizers
+
+## John Hampton <img src="https://emoji.slack-edge.com/T02592416/hipster-tanuki/94529b8ed5f5dd4a.png" alt="drawing" width="25"/>
+
+* Frontend Engineering Manager, Release & Verify @ GitLab (San Francisco, CA)
+* [@johnrhampton](https://twitter.com/johnrhampton)
+
+## Jordan Rhodes 🍑
+* Software Engineer @ Exzeo (Tampa, FL)
+* [@jsrhodes15](https://twitter.com/jsrhodes15)
+
+## Eric Nograles 🦅 
+
+* Lead Front-end Developer @ Crossbeam (Philadelphia, PA)
+* [@grales](https://twitter.com/grales)
+
+# Agenda
+
+## [Sharing with React and React Native](TBD)
+* Ryan Atkinson
+
+## [Staying in Top Form (A talk about forms)](TBD)
+* Jordan Rhodes
+
+# Group Info
+
+Twitter: [@reactjstampabay](https://twitter.com/reactjstampabay)
+
+Slack Channel: https://reactjstampabay.slack.com/
+
+Slack Channel Signup/Invite: http://reactjstampabay-slack.herokuapp.com/
+
+GitHub: https://github.com/reactjstampabay
+
+GitLab: Coming Soon
