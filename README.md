@@ -1,7 +1,3 @@
-# March 20th, 2019
-
-# Sharing code with React and React-Native and Forms in React
-
 # Organizers
 
 ## John Hampton <img src="https://emoji.slack-edge.com/T02592416/hipster-tanuki/94529b8ed5f5dd4a.png" alt="drawing" width="25"/>
@@ -30,10 +26,10 @@
 
 Twitter: [@reactjstampabay](https://twitter.com/reactjstampabay)
 
-Slack Channel: https://reactjstampabay.slack.com/
+Slack Channel: [https://reactjstampabay.slack.com/](https://reactjstampabay.slack.com/)
 
-Slack Channel Signup/Invite: http://reactjstampabay-slack.herokuapp.com/
+Slack Channel Signup/Invite: [http://reactjstampabay-slack.herokuapp.com/](http://reactjstampabay-slack.herokuapp.com/)
 
-GitHub: https://github.com/reactjstampabay
+GitHub: [https://github.com/reactjstampabay](https://github.com/reactjstampabay)
 
 GitLab: Coming Soon
