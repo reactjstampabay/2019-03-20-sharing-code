@@ -1,13 +1,14 @@
 # Organizers
 
+## Jordan Rhodes 🍑
+
+* Software Engineer @ Exzeo (Tampa, FL)
+* [@jsrhodes15](https://twitter.com/jsrhodes15)
+
 ## John Hampton <img src="https://emoji.slack-edge.com/T02592416/hipster-tanuki/94529b8ed5f5dd4a.png" alt="drawing" width="25"/>
 
 * Frontend Engineering Manager, Release & Verify @ GitLab (San Francisco, CA)
 * [@johnrhampton](https://twitter.com/johnrhampton)
-
-## Jordan Rhodes 🍑
-* Software Engineer @ Exzeo (Tampa, FL)
-* [@jsrhodes15](https://twitter.com/jsrhodes15)
 
 ## Eric Nograles 🦅 
 
