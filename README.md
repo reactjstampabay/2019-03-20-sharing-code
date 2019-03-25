@@ -17,10 +17,11 @@
 
 # Agenda
 
-## [Staying in Top Form (A talk about forms)](TBD)
+## [Staying in Top Form (A talk about forms)](https://docs.google.com/presentation/d/e/2PACX-1vQ9UDHq9v4tQJ5dwdZq-_aBLryFzSD6QkDmVDjRomu2WDsMBi6gyTIM28tOcmvP-rdEuLOD3Y7zpZ86/pub?start=false&loop=false&delayms=3000&slide=id.g50b98781cc_0_138)
 * Jordan Rhodes
 
-## [Sharing with React and React Native](TBD)
+
+## [Sharing with React and React Native](https://drive.google.com/file/d/1N-6Fdd6p5M7NONL1HFn16SPe1qQeTnmB/view?usp=sharing)
 * Ryan Atkinson
 
 # Group Info
